@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<config>
+	<settings>
+		<playerselect>false</playerselect>
+		<enableswirl>true</enableswirl>
+		<enablejail>true</enablejail>
+		<enablecorners>true</enablecorners>
+		<!--
+		Total cards dealt will be rows multiplied by cols
+		Total cards must be evenly divisible by 2 or 3 in order	to support those respective
+		match difficutlties. Make sure that all modes include enough matches to support the 
+		amount of 2/3 matches needed for the grid selected.
+		Forumula: Total cards on screen = Rows x Columns = Minimum cards in xml file to support
+		2 and 3 match modes (Total number of 2 card matches, Total number of 3 card matches)
+		-----------------------
+		6  = 2 x 3  = 9   (3,2)
+		12 = 3 x 4  = 18  (6,4)
+		18 = 3 x 6  = 27  (9,6)
+		24 = 3 x 8  = 36  (12,8)
+		30 = 3 x 10 = 45  (15,10)
+		36 = 6 x 6  = 54  (18,12)
+		42 = 6 x 7  = 63  (21,14)
+		48 = 6 x 8  = 72  (24,16)
+		54 = 6 x 9  = 81  (27,18)
+		60 = 6 x 10 = 90  (30,20)
+		66 = 6 x 11 = 99  (33,22)
+		72 = 8 x 9  = 108 (36,24)
+		------------------------
+		-->
+		<rows>3</rows>
+		<cols>4</cols>
+		<difficulties>
+			<difficulty id="1" title="Two card match" desc="Two cards are required to make a match." />
+			<difficulty id="2" title="Three card match" desc="Three cards are required to make a match." />
+		</difficulties>	
+		<!-- For each mode, there must be a corresponding xml file with the name matches_[id].xml -->
+		<modes>
+			<mode id="shapes" title="Shape Match" desc="Match the same shape and color." difficulties="2" />
+			<mode id="coins" title="Coins and Bears" desc="Match the bears with the right amount of money." difficulties="2" />
+			<mode id="capitals" title="State Capitals Match" desc="Match the name of a State Capital to a State name or image." difficulties="2" />	
+			<mode id="Fwords" title="French/English Vocabulary" desc="Match the pictures and words." difficulties="2" />
+			<mode id="addition" title="Addition Match" desc="Match addition formulas that add up to the same number." difficulties="2" />
+			<mode id="actors" title="Actors" desc="Match different images of the same actor." difficulties="2" />
+			<mode id="actresses" title="Actresses" desc="Match different images of the same actress." difficulties="2" />
+			<mode id="Swords" title="Spanish/English Vocabulary" desc="Match the pictures and words." difficulties="2" />
+		</modes>
+		<touchers>
+			<!-- Location options: bottom-left, bottom-right, bottom, left, right, top -->
+			<!-- Touchers: 1 = Red, 2 = Blue, 3 = Green, 4 = Yellow -->
+			<!--
+			<toucher id="1" location="top"></toucher>
+			<toucher id="2" location="bottom"></toucher>
+			<toucher id="3" location="right"></toucher>
+			<toucher id="4" location="left"></toucher>
+			-->
+			<toucher id="1" location="bottom-right"></toucher>
+			<toucher id="2" location="bottom-left"></toucher>
+			<toucher id="3" location="right"></toucher>
+			<toucher id="4" location="left"></toucher>
+		</touchers>
+
+		<!-- Debug settings should only be set to true when needing
+		to troubleshoot an issue with the runtime because they
+		have impacts on performance -->
+		<dtboxes>false</dtboxes>
+		<fpscounter>false</fpscounter>
+		<console>true</console>
+		<dtmouse>false</dtmouse>
+	</settings>
+	<sounds>
+		<sound key="beep1-1" file="1_beep_a.mp3"/>
+		<sound key="beep1-2" file="1_beep_b.mp3"/>
+		<sound key="beep1-3" file="1_beep_c.mp3"/>
+		<sound key="beep1-4" file="1_beep_d.mp3"/>
+		<sound key="beep3-1" file="3_beep_a.mp3"/>
+		<sound key="beep3-2" file="3_beep_b.mp3"/>
+		<sound key="beep3-3" file="3_beep_c.mp3"/>
+		<sound key="beep3-4" file="3_beep_d.mp3"/>
+		<sound key="applause" file="applause-2.mp3"/>
+		<sound key="wrong" file="beep-5.mp3"/>
+		<sound key="beepalt" file="beepalt.mp3"/>
+		<sound key="celldoor" file="celldoor.mp3"/>
+		<sound key="deal1" file="deal1.mp3"/>
+		<sound key="deal2" file="deal2.mp3"/>
+		<sound key="deal3" file="deal3.mp3"/>
+		<sound key="coin" file="smw_coin.mp3"/>
+		<sound key="beep" file="softbeep1.mp3"/>
+		<sound key="deal" file="sound12.mp3"/>
+		<sound key="match" file="sound95.mp3"/>
+		<sound key="swirl" file="swirl1.mp3"/>
+		<sound key="swoosh1" file="swoosh1.mp3"/>
+		<sound key="swoosh2" file="swoosh2.mp3"/>
+		<sound key="swoosh3" file="swoosh3.mp3"/>
+		<sound key="swoosh4" file="swoosh4.mp3"/>
+		<sound key="zip" file="zip.mp3"/>
+	</sounds>
+</config>

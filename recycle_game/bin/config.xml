@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes" ?>
+<GEFlash>
+	<FlashFilename>Recycle.swf</FlashFilename>
+	<FlashFilename2>CollageVertical.swf</FlashFilename2>
+	<Maximized>true</Maximized>
+	<FullScreen>true</FullScreen>
+	<Distributed_Enabled>true</Distributed_Enabled>
+	<Distributed_I_Am_The_Vertical>true</Distributed_I_Am_The_Vertical>
+	<Horizontal_IP_Address>localhost</Horizontal_IP_Address>
+	<Vertical_IP_Address>localhost</Vertical_IP_Address>
+	<Horizontal_Port>4335</Horizontal_Port>
+	<Vertical_Port>4336</Vertical_Port>
+
+	<PromptForUserRotations>false</PromptForUserRotations>
+	<RotateUser0>0</RotateUser0>
+	<RotateUser1>90</RotateUser1>
+	<RotateUser2>180</RotateUser2>
+	<RotateUser3>270</RotateUser3>
+
+</GEFlash>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<game>
+	<settings>
+		<setting name="timeout" value="30"/>
+		<setting name="gametime" value="60"/>
+		<setting name="minplayers" value="1"/>
+		<setting name="debug" value="true"/>
+	</settings>
+	<introTexts>
+		<introText value="Have a seat!" />
+		<introText value="You have to sit to play." />
+		<introText value="Touch a start button." />
+		<introText value="Four people can play!" />
+	</introTexts>
+</game>

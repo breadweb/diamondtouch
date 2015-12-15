@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<recycle>
+	<settings>
+		<setting name="timeout" value="30" />
+		<setting name="gametime" value="60" />
+		<setting name="speed" value="3" />
+		<setting name="spins" value="10" />
+		<setting name="maxitems" value="30" />
+		<setting name="minitems" value="25" />
+		<setting name="dumpspeed" value=".75" />
+		<setting name="totalstack" value="10" />
+		<setting name="minplayers" value="1" />
+	</settings>
+	<items>
+		<item type="glass" name="soda bottle" file="glass_bottle.png" />
+		<item type="glass" name="beer bottle" file="glass_beer.png" />
+		<item type="glass" name="wine bottle" file="glass_wine.png" />
+		<item type="metal" name="can" file="metal_can.png" />
+		<item type="metal" name="bucket" file="metal_bucket.png" />
+		<item type="metal" name="soda can" file="metal_soda.png" />
+		<item type="paper" name="paper bag" file="paper_bag.png" />
+		<item type="paper" name="cardboard box" file="paper_box.png" />
+		<item type="paper" name="paper cup" file="paper_cup.png" />
+		<item type="plastic" name="plastic bag" file="plastic_bag.png" />
+		<item type="plastic" name="detergent jug" file="plastic_detergent.png" />
+		<item type="plastic" name="gallon milk" file="plastic_milk.png" />
+	</items>
+	<texts>
+		<text type="intro" value="HAVE A SEAT!" />
+		<text type="intro" value="(YOU HAVE TO SIT TO PLAY)" />
+		<text type="intro" value="TOUCH THE START BUTTON" />
+		<text type="intro" value="FOUR PEOPLE CAN PLAY!" />
+	</texts>
+</recycle>

@@ -1,0 +1,8 @@
+D:\Projects\CircleTwelve Mayhem\components\Wrapper\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Projects\CircleTwelve Mayhem\components\Wrapper\obj\x86\Release\WaterGameWrapper.FlashWindow.resources
+D:\Projects\CircleTwelve Mayhem\components\Wrapper\obj\x86\Release\WaterGameWrapper.Launcher.resources
+D:\Projects\CircleTwelve Mayhem\components\Wrapper\obj\x86\Release\Wrapper.csproj.GenerateResource.Cache
+D:\Projects\CircleTwelve Mayhem\components\Wrapper\obj\x86\Release\Wrapper.Properties.Resources.resources
+D:\Projects\CircleTwelve Mayhem\bin\assets\appconfig.xml
+D:\Projects\CircleTwelve Mayhem\bin\Wrapper.exe
+D:\Projects\CircleTwelve Mayhem\components\Wrapper\obj\x86\Release\Wrapper.exe

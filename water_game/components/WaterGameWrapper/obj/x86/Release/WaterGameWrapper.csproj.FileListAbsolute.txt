@@ -1,0 +1,15 @@
+D:\Projects\CircleTwelve Water\bin\WaterGameWrapper.exe
+D:\Projects\CircleTwelve Water\components\WaterGameWrapper\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Projects\CircleTwelve Water\components\WaterGameWrapper\obj\x86\Release\WaterGameWrapper.FlashWindow.resources
+D:\Projects\CircleTwelve Water\components\WaterGameWrapper\obj\x86\Release\WaterGameWrapper.Properties.Resources.resources
+D:\Projects\CircleTwelve Water\components\WaterGameWrapper\obj\x86\Release\WaterGameWrapper.Launcher.resources
+D:\Projects\CircleTwelve Water\components\WaterGameWrapper\obj\x86\Release\WaterGameWrapper.csproj.GenerateResource.Cache
+D:\Projects\CircleTwelve Water\components\WaterGameWrapper\obj\x86\Release\WaterGameWrapper.exe
+D:\Projects\CircleTwelve Water Game\bin\WaterGameWrapper.exe
+D:\Projects\CircleTwelve Water Game\components\WaterGameWrapper\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Projects\CircleTwelve Water Game\components\WaterGameWrapper\obj\x86\Release\WaterGameWrapper.FlashWindow.resources
+D:\Projects\CircleTwelve Water Game\components\WaterGameWrapper\obj\x86\Release\WaterGameWrapper.Properties.Resources.resources
+D:\Projects\CircleTwelve Water Game\components\WaterGameWrapper\obj\x86\Release\WaterGameWrapper.Launcher.resources
+D:\Projects\CircleTwelve Water Game\components\WaterGameWrapper\obj\x86\Release\WaterGameWrapper.csproj.GenerateResource.Cache
+D:\Projects\CircleTwelve Water Game\components\WaterGameWrapper\obj\x86\Release\WaterGameWrapper.exe
+D:\Projects\CircleTwelve Water Game\bin\assets\appconfig.xml

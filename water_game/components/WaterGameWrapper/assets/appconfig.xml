@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<appconfig>
+
+	<!-- If set to false, the initial screen that allows 
+	selecting dispalys will NOT be shown and the optimal configuration
+	will be chosen automatically -->
+	<autostart>true</autostart>
+
+	<!-- Enables some debug components and changes window sizes to 
+	make it easier to debug issues in development -->
+	<debug>false</debug>
+
+	<!-- Sets all available windows to fullscreen on their respective
+	displays -->
+	<fullscreen>true</fullscreen>
+
+	<!-- Setting this to false will prevent the LCD window from 
+	spawning. It is recommended to set the lcdEnabled setting in
+	the config.xml file for the game to the same value -->
+	<enablelcd>true</enablelcd>  
+
+</appconfig>

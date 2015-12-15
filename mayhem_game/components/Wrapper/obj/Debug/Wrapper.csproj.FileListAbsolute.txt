@@ -1,0 +1,14 @@
+D:\Projects\CircleTwelve Mayhem\components\Wrapper\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\CircleTwelve Mayhem\components\Wrapper\obj\Debug\WaterGameWrapper.FlashWindow.resources
+D:\Projects\CircleTwelve Mayhem\components\Wrapper\obj\Debug\Wrapper.Properties.Resources.resources
+D:\Projects\CircleTwelve Mayhem\components\Wrapper\obj\Debug\WaterGameWrapper.Launcher.resources
+D:\Projects\CircleTwelve Mayhem\components\Wrapper\obj\Debug\Wrapper.csproj.GenerateResource.Cache
+D:\Projects\CircleTwelve Mayhem\components\Wrapper\bin\Debug\assets\appconfig.xml
+D:\Projects\CircleTwelve Mayhem\components\Wrapper\bin\Debug\Wrapper.exe
+D:\Projects\CircleTwelve Mayhem\components\Wrapper\bin\Debug\Wrapper.pdb
+D:\Projects\CircleTwelve Mayhem\components\Wrapper\bin\Debug\AxInterop.DIAMONDTOUCHLib.dll
+D:\Projects\CircleTwelve Mayhem\components\Wrapper\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Projects\CircleTwelve Mayhem\components\Wrapper\bin\Debug\Interop.DIAMONDTOUCHLib.dll
+D:\Projects\CircleTwelve Mayhem\components\Wrapper\bin\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Projects\CircleTwelve Mayhem\components\Wrapper\obj\Debug\Wrapper.exe
+D:\Projects\CircleTwelve Mayhem\components\Wrapper\obj\Debug\Wrapper.pdb

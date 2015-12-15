@@ -1,0 +1,106 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">  
+<html xmlns="http://www.w3.org/1999/xhtml"> 
+<head>
+<title>Mayhem Game Preview</title>
+
+<script type="text/javascript" src="swfobject.js"></script>
+<script type="text/javascript" src="jquery.min.js"></script>
+
+<script language="JavaScript">
+
+	function exit()
+	{
+		window.close();
+	}
+
+    $(document).ready(function()
+	{
+		$('input').click(function()
+		{
+			var player = this.id.toString();
+			playerId = player.substring(player.length - 1);
+
+			if ($("#flashtable")[0])  
+			{  
+				$("#flashtable")[0].onPlayerSelect(playerId);  
+			}  
+			else  
+			{  
+				$("#flashtable").onPlayerSelect(playerId);  
+			}
+		});
+    });
+
+</script>
+
+
+<style type="text/css">
+
+	body {
+		margin: 20px;
+		background-color: #f6f6f6;
+	}
+
+	body, p, td, th, div, input, textarea {
+		font-family: "Arial", "Helvetica", "Verdana", sans-serif;
+		font-size: 14px;
+		line-height: 18px;
+		color: #898989;
+		text-align: center;
+	}
+
+	h1 {
+		font-size: 18px;
+	}
+
+	img {
+		border: none;
+		outline: none;
+	}
+
+	a:link, a:visited, a:hover, a:active {
+		color: #eb5f01;
+		font-weight: bold;
+		text-decoration: underline;
+	}
+
+</style>
+
+</head>
+
+<body>
+
+<a href="http://www.circletwelve.com" target="_blank"><img src="c12-logo.png" style="margin-right:100px;" /></a>
+<a href="http://www.breadweb.net" target="_blank"><img src="bws-logo.png" /></a>
+
+<h1>Mayhem Game Preview</h1>
+
+<br /><br />
+
+<div id='flashtable_div'></div>
+<script type='text/javascript'>
+	var flashvars = false;
+	var params = {
+		allowscriptaccess: "always",
+        allownetworking: "all" 
+	};		
+    var attributes = {
+		id: "mayhem"
+	};  
+	swfobject.embedSWF("Mayhem.swf", "flashtable_div", "1000", "750", "10.0.0", false, flashvars, params, attributes);
+</script> 
+<noscript>
+	<object width='1000' height='750'>
+		<embed src='Mayhem.swf' width='1000' height='750' name='table' type='application/x-shockwave-flash' />
+	</object>
+</noscript>
+
+<br /><br />
+Player select:
+<input id="player0" type="button" value="Player 0" style="color:#C74A4A;font-weight:bold;"/>
+<input id="player1" type="button" value="Player 1" style="color:#1D7CBF;font-weight:bold;"/>
+<input id="player2" type="button" value="Player 2" style="color:#5CA347;font-weight:bold;"/>
+<input id="player3" type="button" value="Player 3" style="color:#DECA6D;font-weight:bold;"/>
+
+</body>
+</html>

@@ -1,0 +1,13 @@
+D:\Projects\CircleTwelve Water\components\WaterGameWrapper\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\CircleTwelve Water\components\WaterGameWrapper\obj\Debug\WaterGameWrapper.FlashWindow.resources
+D:\Projects\CircleTwelve Water\components\WaterGameWrapper\obj\Debug\WaterGameWrapper.Properties.Resources.resources
+D:\Projects\CircleTwelve Water\components\WaterGameWrapper\obj\Debug\WaterGameWrapper.Launcher.resources
+D:\Projects\CircleTwelve Water\components\WaterGameWrapper\obj\Debug\WaterGameWrapper.csproj.GenerateResource.Cache
+D:\Projects\CircleTwelve Water\components\WaterGameWrapper\bin\Debug\WaterGameWrapper.exe
+D:\Projects\CircleTwelve Water\components\WaterGameWrapper\bin\Debug\WaterGameWrapper.pdb
+D:\Projects\CircleTwelve Water\components\WaterGameWrapper\bin\Debug\AxInterop.DIAMONDTOUCHLib.dll
+D:\Projects\CircleTwelve Water\components\WaterGameWrapper\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Projects\CircleTwelve Water\components\WaterGameWrapper\bin\Debug\Interop.DIAMONDTOUCHLib.dll
+D:\Projects\CircleTwelve Water\components\WaterGameWrapper\bin\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Projects\CircleTwelve Water\components\WaterGameWrapper\obj\Debug\WaterGameWrapper.exe
+D:\Projects\CircleTwelve Water\components\WaterGameWrapper\obj\Debug\WaterGameWrapper.pdb

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<config>
+	<settings>
+
+		<!-- Debug settings. Only set them to true when needing
+		to troubleshoot an issue with the runtime because they
+		have impacts on performance -->
+		<setting name="fpscounter" value="false"/>
+		<setting name="console" value="false"/>
+
+	</settings>
+</config>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<config>
+
+	<settings>
+
+		<difficulties>
+			<difficulty id="1" title="Two card match" desc="Two cards are required to make a match." />
+			<difficulty id="2" title="Three card match" desc="Three cards are required to make a match." />
+		</difficulties>
+		
+		<modes>
+			<mode id="shapes" title="Shape Match" desc="Match the same shape and color." difficulties="2" />
+			<mode id="blondes" title="Blond Actresses" desc="Match different images of the same actress." difficulties="2" />
+			<mode id="brunettes" title="Brunette Actresses" desc="Match different images of the same actress." difficulties="2" />
+			<mode id="addition" title="Addition Match" desc="Match addition formulas that add up to the same number." difficulties="1" />
+			<mode id="capitals" title="State Capitals Match" desc="Match the name of a State Capital to a State name or image." difficulties="2" />
+		</modes>
+
+		<touchers>
+			<toucher id="1" location="bottom-left">
+			<toucher id="2" location="bottom-right">
+			<toucher id="3" location="left">
+			<toucher id="4" location="right">
+		</toucher>
+
+		<!-- Debug settings. Only set them to true when needing
+		to troubleshoot an issue with the runtime because they
+		have impacts on performance -->
+		<setting name="dtboxes" value="false"/>
+		<setting name="fpscounter" value="false"/>
+		<setting name="console" value="true"/>
+		<setting name="dtmouse" value="false"/>
+
+	</settings>
+
+	<sounds>
+		<sound key="beep1-1" file="1_beep_a.wav"/>
+		<sound key="beep1-2" file="1_beep_b.wav"/>
+		<sound key="beep1-3" file="1_beep_c.wav"/>
+		<sound key="beep1-4" file="1_beep_d.wav"/>
+		<sound key="beep3-1" file="3_beep_a.wav"/>
+		<sound key="beep3-2" file="3_beep_b.wav"/>
+		<sound key="beep3-3" file="3_beep_c.wav"/>
+		<sound key="beep3-4" file="3_beep_d.wav"/>
+		<sound key="applause" file="applause-2.wav"/>
+		<sound key="wrong" file="beep-5.wav"/>
+		<sound key="beepalt" file="beepalt.mp3"/>
+		<sound key="celldoor" file="celldoor.wav"/>
+		<sound key="deal1" file="deal1.wav"/>
+		<sound key="deal2" file="deal2.wav"/>
+		<sound key="deal3" file="deal3.wav"/>
+		<sound key="coin" file="smw_coin.wav"/>
+		<sound key="beep" file="softbeep1.wav"/>
+		<sound key="deal" file="sound12.mp3"/>
+		<sound key="match" file="sound95.wav"/>
+		<sound key="swirl" file="swirl1.wav"/>
+		<sound key="swoosh1" file="swoosh1.wav"/>
+		<sound key="swoosh2" file="swoosh2.wav"/>
+		<sound key="swoosh3" file="swoosh3.wav"/>
+		<sound key="swoosh4" file="swoosh4.wav"/>
+		<sound key="zip" file="zip.wav"/>
+	</sounds>
+
+</config>

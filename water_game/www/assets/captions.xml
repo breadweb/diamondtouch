@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<captions>
+	<caption id="pregame2">Come on over.  I won't bite... too hard.</caption>
+	<caption id="pregame3">Have a seat if you want to play.</caption>
+	<caption id="pregame8">Smart people love playing this game.</caption>
+	<caption id="pregame9">You can't resist a talking alligator.  Have a seat!</caption>
+	<caption id="pregame11">Hey, come on over, it's gator country!</caption>
+	<caption id="intro1a">My name is Ebenezer Alligator, but you can call me Old Allie.</caption>
+	<caption id="intro1b">I've lived in the Everglades for a long time, and I know a thing or two.</caption>
+	<caption id="intro1c">1,000 years ago, this area existed without any significant human settlement.</caption>
+	<caption id="intro1d">The land was lush with native plants like saw grass and palmetto,</caption>
+	<caption id="intro1d2">sable palms and cypress.</caption>
+	<caption id="intro1e">And it was a home to wildlife like panthers, raccoons, turtles, black bear,</caption>
+	<caption id="intro1f">osprey, and alligators like me.</caption>
+	<caption id="intro1g">And they thrived on a great fresh water flow that stretched from the Kissimmee River,</caption>
+	<caption id="intro1h">through Lake Okeechobee and down to the Southern tip of Florida. </caption>
+	
+	<caption id="intro2a">But things have been changing of late.</caption>
+	<caption id="intro2b">A lot more humans have been coming to the area, and with them,</caption>
+	<caption id="intro2c">farms and industry have placed great demands on the land and the water.</caption>
+	<caption id="intro2d">This can mean a lot less water left for the native plants</caption>
+	<caption id="intro2e">and wildlife of the Everglades.</caption>
+	<caption id="intro2f">The trick is:  How do we grow in a way that is sustainable</caption>
+	<caption id="intro2g">that lets everyone have enough water?</caption>
+	
+	<caption id="intro3a">Your job here is to allocate water, </caption>
+	<caption id="intro3b">and each of you is responsible for the one group indicated in front of you.</caption>
+	<caption id="intro3c">You can get water for your group by touching on a water drop</caption>
+	<caption id="intro3d">when you see it appear on the screen.</caption>
+	
+	<caption id="intro4a">The real trick here is to allocate the water in a sustainable way </caption>
+	<caption id="intro4b">not too much and not too little.</caption>
+	<caption id="intro4c">These water meters will help you gage how you are doing.</caption>
+	<caption id="intro4d">Let the game begin!</caption>
+	
+	<caption id="gameGeneric1">You guys are doing great!</caption>
+	<caption id="gameGeneric2">I'm getting thirsty just watching you!</caption>
+	<caption id="gameGeneric3">Keep going – not much longer now!</caption>
+	<caption id="gameGeneric4">Remember: Not too much, and not too little.</caption>
+	<caption id="gameGeneric5">Anybody want a glass of water?</caption>
+	
+	<caption id="gameHighRes">Hey, be careful not to collect too much water for the residences.</caption>
+	<caption id="gameHighFarm">Hey, be careful not to collect too much water for the farms.</caption>
+	<caption id="gameHighInd">Hey, be careful not to collect too much water for industry.</caption>
+	<caption id="gameHighEnv">Hey, be careful not to collect too much water for the environment.</caption>
+	
+	<caption id="gameLowRes">It looks like the residences need more water.</caption>
+	<caption id="gameLowFarm">It looks like the farms need more water.</caption>
+	<caption id="gameLowInd">It looks like industry needs more water.</caption>
+	<caption id="gameLowEnv">It looks like the environment needs more water.</caption>
+	
+	<caption id="post1">Hey, it's Old Allie again.  Let's see how we did.</caption>
+	
+	<caption id="postLowRes1">Looks like we didn't get enough water for the residences</caption>
+	<caption id="postLowRes2">I hope people don't get too thirsty.</caption>
+	<caption id="postGoodRes">Great job on the residential water.</caption>
+	<caption id="postHighRes1">Whoa!  It looks like we took too much water for the residences.</caption>
+	<caption id="postHighRes2">That'll mean costly water bills and not enough water for</caption>
+	<caption id="postHighRes3">all my wildlife friends.</caption>
+	
+	<caption id="postLowFarm">I'm not sure we got enough water to grow all the crops!</caption>
+	<caption id="postGoodFarm">Nice job on getting water for the farms.</caption>
+	<caption id="postHighFarm1">Hey, now!  That's too much!</caption>
+	<caption id="postHighFarm2">Plants can only absorb a certain amount of water at a time</caption>
+	<caption id="postHighFarm3">so too much water means water was wasted!</caption>
+	
+	<caption id="postLowInd">Looks like we didn't get enough water to run all the equipment.</caption>
+	<caption id="postGoodInd">For industry, I'll say that's fine job.</caption>
+	<caption id="postHighInd1">Yow! That's too much water for industry.</caption>
+	<caption id="postHighInd2">What are people going to drink,</caption>
+	<caption id="postHighInd3">and how will the crops and wildlife survive?</caption>
+	
+	<caption id="postLowEnv1">Oh no!  We did not get enough water for the environment.</caption>
+	<caption id="postLowEnv2">My friends and I can't survive here anymore.</caption>
+	<caption id="postGoodEnv1">Well, you did just right.</caption>
+	<caption id="postGoodEnv2">The ecosystem has enough water for my friends and I to live here.</caption>
+	<caption id="postHighEnv1">Well, I think we got a little too much water reserved</caption>
+	<caption id="postHighEnv2">for the environment.  If the tree islands get flooded,</caption>
+	<caption id="postHighEnv3">there will be no dry place for animals to live.</caption>
+	
+	<caption id="postGoodAll1">You guys all did perfectly!</caption>
+	<caption id="postGoodAll2">You can tell everyone that Old Allie says you are all excellent </caption>
+	<caption id="postGoodAll3">stewards of our precious water resources.  Bye for now!</caption>
+	
+	<caption id="postOKAll1">You didn't do too badly, but there is room for improvement.</caption>
+	<caption id="postOKAll2">To co-exist, we all need to make sustainable choices.</caption>
+	<caption id="postOKAll3">Perhaps you want to play again?</caption>
+	
+	<caption id="postBadAll1">You guys didn't do so well!  Remember, we all need to make</caption>
+	<caption id="postBadAll2">sustainable choices so everyone who NEEDS water, has enough.</caption>
+	<caption id="postBadAll3">That means everybody!</caption>
+	
+</captions>

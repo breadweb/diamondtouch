@@ -1,0 +1,63 @@
+C:\Documents and Settings\alan\My Documents\dev\Csharp 2008\TouchZoomViewerLauncher\HorizontalTouchZoomViewer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\alan\My Documents\dev\Csharp 2008\TouchZoomViewerLauncher\HorizontalTouchZoomViewer\obj\Debug\Interop.DIAMONDTOUCHLib.dll
+C:\Documents and Settings\alan\My Documents\dev\Csharp 2008\TouchZoomViewerLauncher\HorizontalTouchZoomViewer\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Documents and Settings\alan\My Documents\dev\Csharp 2008\TouchZoomViewerLauncher\HorizontalTouchZoomViewer\obj\Debug\AxInterop.DIAMONDTOUCHLib.dll
+C:\Documents and Settings\alan\My Documents\dev\Csharp 2008\TouchZoomViewerLauncher\HorizontalTouchZoomViewer\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Documents and Settings\alan\My Documents\dev\Csharp 2008\TouchZoomViewerLauncher\HorizontalTouchZoomViewer\obj\Debug\HorizontalTouchZoomViewer.csproj.ResolveComReference.cache
+C:\Documents and Settings\alan\My Documents\dev\Csharp 2008\TouchZoomViewerLauncher\HorizontalTouchZoomViewer\obj\Debug\HorizontalTouchZoomViewer.HorizontalTouchZoomViewer.resources
+C:\Documents and Settings\alan\My Documents\dev\Csharp 2008\TouchZoomViewerLauncher\HorizontalTouchZoomViewer\obj\Debug\HorizontalTouchZoomViewer.Properties.Resources.resources
+C:\Documents and Settings\alan\My Documents\dev\Csharp 2008\TouchZoomViewerLauncher\HorizontalTouchZoomViewer\obj\Debug\HorizontalTouchZoomViewer.csproj.GenerateResource.Cache
+C:\Documents and Settings\alan\My Documents\dev\Csharp 2008\TouchZoomViewerLauncher\HorizontalTouchZoomViewer\bin\Debug\HorizontalTouchZoomViewer.exe
+C:\Documents and Settings\alan\My Documents\dev\Csharp 2008\TouchZoomViewerLauncher\HorizontalTouchZoomViewer\bin\Debug\HorizontalTouchZoomViewer.pdb
+C:\Documents and Settings\alan\My Documents\dev\Csharp 2008\TouchZoomViewerLauncher\HorizontalTouchZoomViewer\bin\Debug\Interop.DIAMONDTOUCHLib.dll
+C:\Documents and Settings\alan\My Documents\dev\Csharp 2008\TouchZoomViewerLauncher\HorizontalTouchZoomViewer\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Documents and Settings\alan\My Documents\dev\Csharp 2008\TouchZoomViewerLauncher\HorizontalTouchZoomViewer\bin\Debug\AxInterop.DIAMONDTOUCHLib.dll
+C:\Documents and Settings\alan\My Documents\dev\Csharp 2008\TouchZoomViewerLauncher\HorizontalTouchZoomViewer\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Documents and Settings\alan\My Documents\dev\Csharp 2008\TouchZoomViewerLauncher\HorizontalTouchZoomViewer\obj\Debug\HorizontalTouchZoomViewer.exe
+C:\Documents and Settings\alan\My Documents\dev\Csharp 2008\TouchZoomViewerLauncher\HorizontalTouchZoomViewer\obj\Debug\HorizontalTouchZoomViewer.pdb
+C:\Documents and Settings\demo\My Documents\dev\Csharp 2008\TouchZoomViewerLauncher\HorizontalTouchZoomViewer\bin\Debug\HorizontalTouchZoomViewer.exe
+C:\Documents and Settings\demo\My Documents\dev\Csharp 2008\TouchZoomViewerLauncher\HorizontalTouchZoomViewer\bin\Debug\HorizontalTouchZoomViewer.pdb
+C:\Documents and Settings\demo\My Documents\dev\Csharp 2008\TouchZoomViewerLauncher\HorizontalTouchZoomViewer\bin\Debug\Interop.DIAMONDTOUCHLib.dll
+C:\Documents and Settings\demo\My Documents\dev\Csharp 2008\TouchZoomViewerLauncher\HorizontalTouchZoomViewer\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Documents and Settings\demo\My Documents\dev\Csharp 2008\TouchZoomViewerLauncher\HorizontalTouchZoomViewer\bin\Debug\AxInterop.DIAMONDTOUCHLib.dll
+C:\Documents and Settings\demo\My Documents\dev\Csharp 2008\TouchZoomViewerLauncher\HorizontalTouchZoomViewer\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Documents and Settings\demo\My Documents\dev\Csharp 2008\TouchZoomViewerLauncher\HorizontalTouchZoomViewer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\demo\My Documents\dev\Csharp 2008\TouchZoomViewerLauncher\HorizontalTouchZoomViewer\obj\Debug\Interop.DIAMONDTOUCHLib.dll
+C:\Documents and Settings\demo\My Documents\dev\Csharp 2008\TouchZoomViewerLauncher\HorizontalTouchZoomViewer\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Documents and Settings\demo\My Documents\dev\Csharp 2008\TouchZoomViewerLauncher\HorizontalTouchZoomViewer\obj\Debug\AxInterop.DIAMONDTOUCHLib.dll
+C:\Documents and Settings\demo\My Documents\dev\Csharp 2008\TouchZoomViewerLauncher\HorizontalTouchZoomViewer\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Documents and Settings\demo\My Documents\dev\Csharp 2008\TouchZoomViewerLauncher\HorizontalTouchZoomViewer\obj\Debug\HorizontalTouchZoomViewer.csproj.ResolveComReference.cache
+C:\Documents and Settings\demo\My Documents\dev\Csharp 2008\TouchZoomViewerLauncher\HorizontalTouchZoomViewer\obj\Debug\HorizontalTouchZoomViewer.HorizontalTouchZoomViewer.resources
+C:\Documents and Settings\demo\My Documents\dev\Csharp 2008\TouchZoomViewerLauncher\HorizontalTouchZoomViewer\obj\Debug\HorizontalTouchZoomViewer.Properties.Resources.resources
+C:\Documents and Settings\demo\My Documents\dev\Csharp 2008\TouchZoomViewerLauncher\HorizontalTouchZoomViewer\obj\Debug\HorizontalTouchZoomViewer.csproj.GenerateResource.Cache
+C:\Documents and Settings\demo\My Documents\dev\Csharp 2008\TouchZoomViewerLauncher\HorizontalTouchZoomViewer\obj\Debug\HorizontalTouchZoomViewer.exe
+C:\Documents and Settings\demo\My Documents\dev\Csharp 2008\TouchZoomViewerLauncher\HorizontalTouchZoomViewer\obj\Debug\HorizontalTouchZoomViewer.pdb
+C:\builds\dev\Csharp_2008\TouchZoomViewerLauncher-2009-01-11\HorizontalTouchZoomViewer\bin\Debug\HorizontalTouchZoomViewer.exe
+C:\builds\dev\Csharp_2008\TouchZoomViewerLauncher-2009-01-11\HorizontalTouchZoomViewer\bin\Debug\HorizontalTouchZoomViewer.pdb
+C:\builds\dev\Csharp_2008\TouchZoomViewerLauncher-2009-01-11\HorizontalTouchZoomViewer\bin\Debug\Interop.DIAMONDTOUCHLib.dll
+C:\builds\dev\Csharp_2008\TouchZoomViewerLauncher-2009-01-11\HorizontalTouchZoomViewer\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\builds\dev\Csharp_2008\TouchZoomViewerLauncher-2009-01-11\HorizontalTouchZoomViewer\bin\Debug\AxInterop.DIAMONDTOUCHLib.dll
+C:\builds\dev\Csharp_2008\TouchZoomViewerLauncher-2009-01-11\HorizontalTouchZoomViewer\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\builds\dev\Csharp_2008\TouchZoomViewerLauncher-2009-01-11\HorizontalTouchZoomViewer\obj\Debug\ResolveAssemblyReference.cache
+C:\builds\dev\Csharp_2008\TouchZoomViewerLauncher-2009-01-11\HorizontalTouchZoomViewer\obj\Debug\Interop.DIAMONDTOUCHLib.dll
+C:\builds\dev\Csharp_2008\TouchZoomViewerLauncher-2009-01-11\HorizontalTouchZoomViewer\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\builds\dev\Csharp_2008\TouchZoomViewerLauncher-2009-01-11\HorizontalTouchZoomViewer\obj\Debug\AxInterop.DIAMONDTOUCHLib.dll
+C:\builds\dev\Csharp_2008\TouchZoomViewerLauncher-2009-01-11\HorizontalTouchZoomViewer\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\builds\dev\Csharp_2008\TouchZoomViewerLauncher-2009-01-11\HorizontalTouchZoomViewer\obj\Debug\HorizontalTouchZoomViewer.csproj.ResolveComReference.cache
+C:\builds\dev\Csharp_2008\TouchZoomViewerLauncher-2009-01-11\HorizontalTouchZoomViewer\obj\Debug\HorizontalTouchZoomViewer.HorizontalTouchZoomViewer.resources
+C:\builds\dev\Csharp_2008\TouchZoomViewerLauncher-2009-01-11\HorizontalTouchZoomViewer\obj\Debug\HorizontalTouchZoomViewer.Properties.Resources.resources
+C:\builds\dev\Csharp_2008\TouchZoomViewerLauncher-2009-01-11\HorizontalTouchZoomViewer\obj\Debug\HorizontalTouchZoomViewer.csproj.GenerateResource.Cache
+C:\builds\dev\Csharp_2008\TouchZoomViewerLauncher-2009-01-11\HorizontalTouchZoomViewer\obj\Debug\HorizontalTouchZoomViewer.exe
+C:\builds\dev\Csharp_2008\TouchZoomViewerLauncher-2009-01-11\HorizontalTouchZoomViewer\obj\Debug\HorizontalTouchZoomViewer.pdb
+D:\Projects\CircleTwelve Museum\wrapper\obj\Debug\HorizontalTouchZoomViewer.exe
+D:\Projects\CircleTwelve Museum\wrapper\obj\Debug\HorizontalTouchZoomViewer.pdb
+D:\Projects\CircleTwelve Museum\wrapper\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\CircleTwelve Museum\wrapper\obj\Debug\HorizontalTouchZoomViewer.HorizontalTouchZoomViewer.resources
+D:\Projects\CircleTwelve Museum\wrapper\obj\Debug\HorizontalTouchZoomViewer.Properties.Resources.resources
+D:\Projects\CircleTwelve Museum\wrapper\obj\Debug\HorizontalTouchZoomViewer.csproj.GenerateResource.Cache
+D:\Projects\CircleTwelve Museum\wrapper\bin\Debug\HorizontalTouchZoomViewer.exe
+D:\Projects\CircleTwelve Museum\wrapper\bin\Debug\HorizontalTouchZoomViewer.pdb
+D:\Projects\CircleTwelve Museum\wrapper\bin\Debug\AxInterop.DIAMONDTOUCHLib.dll
+D:\Projects\CircleTwelve Museum\wrapper\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Projects\CircleTwelve Museum\wrapper\bin\Debug\Interop.DIAMONDTOUCHLib.dll
+D:\Projects\CircleTwelve Museum\wrapper\bin\Debug\Interop.ShockwaveFlashObjects.dll

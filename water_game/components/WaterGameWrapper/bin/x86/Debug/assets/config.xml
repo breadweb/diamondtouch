@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<config>
+	<settings>
+
+		<!-- Seconds of inactivity before the game resets -->
+		<setting name="timeout" value="60"/>
+
+		<!-- The amount of seconds before the game begins after
+		the minimum amount of players have clicked start -->
+		<setting name="countdowntime" value="10"/>
+
+		<!-- The minimum amount of players needed to start a game -->
+		<setting name="minplayers" value="1"/>
+
+		<!-- The length of time in seconds that the water drop
+		collection part of the game happens -->
+		<setting name="gametime" value="60"/>
+
+		<!-- Debug mode enables items like the logger console
+		and the touch boxes. Do not set this to true unless
+		troubleshooting an issue in the runtime -->
+		<setting name="debug" value="true"/>
+
+		<!-- If following is set to false, the  game will not
+		will ignore the LCD component entirely -->
+		<setting name="enablelcd" value="false"/>
+
+		<!-- The following settings affect the rate and
+		amount of water drops falling and water draining. -->
+		<setting name="maxdrops" value="60"/> <!-- Default: 40 -->
+		<setting name="dropinterval" value=".5"/> <!-- Default: .5 -->
+		<setting name="watervalue" value="10"/> <!-- Default: 10 -->
+		<setting name="minspeed" value="100"/> <!-- Default: 100 -->
+		<setting name="maxspeed" value="500"/> <!-- Default: 500 -->
+		<setting name="draininterval" value="50"/> <!-- Default: 50 -->
+		<setting name="drainamount" value="-.5"/> <!-- Default: -.25 -->
+
+	</settings>
+
+	<introTexts>
+		<introText value="Have a seat!" />
+		<introText value="You have to sit to play." />
+		<introText value="Touch a start button." />
+		<introText value="Four people can play!" />
+	</introTexts>
+  
+	<sounds>
+		<sound key="beep1" file="beep1.mp3"/>
+		<sound key="drip1" file="drip1.mp3"/>
+	</sounds>
+  
+</config>
